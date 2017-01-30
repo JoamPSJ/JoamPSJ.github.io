@@ -41,7 +41,7 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-    color: #6CB670;
+    color: #000;
 }
 
 h1, h2, h3,
@@ -273,7 +273,7 @@ top: -8px;
 ==========================================*/
 
 .features {
-  background-color: #f4f7f9;
+  background-color: #000;
 }
 
 .owl-controls {
@@ -441,7 +441,9 @@ top: -8px;
   width: 273px;
   position: relative;
 }
-
+.team {
+  background-color: #000;
+}
 .member-thumb .overlay h5 {
   font-size: 16px;
   font-weight: 700;
@@ -456,7 +458,7 @@ top: -8px;
 }
 
 .team-member h4 {
-  color: #062033;
+  color: #fff;
   font-size: 18px;
   font-weight: 600;
   line-height: 24px;
@@ -646,7 +648,7 @@ label.error {
 
 
 .footer {
-  background-color: #1ea78d;
+  background-color: #000;
   border-top: 5px solid #062033;
   color: #fff;
 }
